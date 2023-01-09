@@ -28,7 +28,7 @@ namespace _01_Syntax
             // spacing insensitive,except inside the string ⬇️
             Console      .      WriteLine(            "Hello World!"      );
             
-            // indentation insensitive 缩进不敏感
+            // indentation insensitive 缩进不敏感, C# uses semicolon ";" as terminator, Ctrl+D format document in Visual Studio
             Console
                 .
                 ReadKey
