@@ -27,6 +27,12 @@ namespace _01_Syntax
             
             // spacing insensitive,except inside the string ⬇️
             Console      .      WriteLine(            "Hello World!"      );
+            
+            // indentation insensitive 缩进不敏感
+            Console
+                .
+                ReadKey
+                ();
 
             // this line stops the program and waits for user keyboard input
             Console.ReadKey();
