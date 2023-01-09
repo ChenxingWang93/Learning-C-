@@ -24,6 +24,9 @@ namespace _01_Syntax
 
             // this line prints a message to the console 
             Console.WriteLine("Hello World!");
+            
+            // spacing insensitive,except inside the string ⬇️
+            Console      .      WriteLine(            "Hello World!"      );
 
             // this line stops the program and waits for user keyboard input
             Console.ReadKey();
