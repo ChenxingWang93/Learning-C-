@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\02_Variables\02_Variables\bin\Debug\02_Variables.exe.config
+\\Mac\Home\Desktop\02_Variables\02_Variables\bin\Debug\02_Variables.exe
+\\Mac\Home\Desktop\02_Variables\02_Variables\bin\Debug\02_Variables.pdb
+\\Mac\Home\Desktop\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\02_Variables\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\02_Variables\02_Variables\obj\Debug\02_Variables.exe
+\\Mac\Home\Desktop\02_Variables\02_Variables\obj\Debug\02_Variables.pdb
