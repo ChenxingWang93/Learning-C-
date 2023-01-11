@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\bin\Debug\04_VariableDeclaration.exe.config
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\bin\Debug\04_VariableDeclaration.exe
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\bin\Debug\04_VariableDeclaration.pdb
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\obj\Debug\04_VariableDeclaration.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\obj\Debug\04_VariableDeclaration.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\obj\Debug\04_VariableDeclaration.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\obj\Debug\04_VariableDeclaration.exe
+\\Mac\Home\Desktop\04_VariableDeclaration\04_VariableDeclaration\obj\Debug\04_VariableDeclaration.pdb
