@@ -15,3 +15,8 @@
 #### 13_ArithmeticFunctions 算术函数
 #### 14_Expressions 表达式
 #### 15_Conditionals 条件式
+#### 16_SwitchStatements 开关语句
+#### 17_LogicalOperators 逻辑运算符
+#### 18_WhileLoops While 循环
+#### 19_ForLoops For 循环
+#### 20_NestedLoop Nested Loop 循环
